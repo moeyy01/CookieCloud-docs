@@ -22,7 +22,9 @@ CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览
 
 > 本站提供的免费服务器端供大家使用
 
-- <https://cookiecloud.moeyy.cn>
+```
+https://cookiecloud.moeyy.cn
+```
 
 ## 工作模式
 
